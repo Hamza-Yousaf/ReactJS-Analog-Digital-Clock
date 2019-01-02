@@ -1,6 +1,6 @@
 <h3>Snapshot:</h3>
 <div align="center">
-	<img src="#" width="700" height="600">
+	<img src="https://user-images.githubusercontent.com/38814709/50604935-7b90dd80-0ee2-11e9-9ee7-594c8c6f51af.png" width="700" height="700">
 </div>
 <br>
 <h3>Commands:</h3>
